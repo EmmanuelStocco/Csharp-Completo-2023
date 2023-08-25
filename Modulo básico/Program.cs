@@ -11,7 +11,8 @@ namespace Modulo_básico
         static void Main(string[] args)
         {
             // FilaPilha.Fila();
-            Excecao.Main();
+            // Excecao.Main();
+            // Metodo.Soma();
         }
     }
 }
