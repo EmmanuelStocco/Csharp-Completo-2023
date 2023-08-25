@@ -10,7 +10,8 @@ namespace Modulo_básico
     {
         static void Main(string[] args)
         {
-            FilaPilha.Fila();
+            // FilaPilha.Fila();
+            Excecao.Main();
         }
     }
 }
