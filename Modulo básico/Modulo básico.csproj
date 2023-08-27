@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Excecao.cs" />
     <Compile Include="FilaPilha.cs" />
+    <Compile Include="Metodo.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProjetoQuinto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

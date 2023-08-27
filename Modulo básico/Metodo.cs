@@ -29,7 +29,7 @@ namespace Modulo_básico
             resultadoOperacao = resultadoDaMultplicacao;
         }
 
-        static void Main(string[] args)
+        static void Single(string[] args)
         {
             double resultado = Soma(10, 20);
             Console.WriteLine(resultado);

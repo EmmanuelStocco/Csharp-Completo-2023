@@ -8,7 +8,7 @@ namespace Modulo_básico
 {
     public class Excecao
     {
-        public static void Main()
+        public static void Single()
         {
             Console.WriteLine("Digite um numero");
             int i = Convert.ToInt32(Console.ReadLine());
