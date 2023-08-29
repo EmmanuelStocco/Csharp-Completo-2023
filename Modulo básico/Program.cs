@@ -13,7 +13,8 @@ namespace Modulo_básico
             // FilaPilha.Fila();
             // Excecao.Single();
             // Metodo.Soma();
-            ProjetoQuinto.Single();
+            // ProjetoQuinto.Single();
+            Delegados.Single();
         }
     }
 }

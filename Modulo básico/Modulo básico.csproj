@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Delegados.cs" />
     <Compile Include="Excecao.cs" />
     <Compile Include="FilaPilha.cs" />
     <Compile Include="Metodo.cs" />
