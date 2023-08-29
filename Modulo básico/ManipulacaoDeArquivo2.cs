@@ -26,7 +26,5 @@ namespace Modulo_básico
             //forma2 => ideal
             File.AppendAllText(caminhoArquivo2, texto1+texto2);
         }
-
-
     }
 }

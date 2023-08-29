@@ -16,7 +16,8 @@ namespace Modulo_básico
             // ProjetoQuinto.Single();
             // Delegados.Single();
             // ManipulacaoDeArquivos.Single();
-            ManipulacaoDeArquivo2.Single();
+            // ManipulacaoDeArquivo2.Single();
+            ProjetoSexto.Single();
         }
     }
 }
