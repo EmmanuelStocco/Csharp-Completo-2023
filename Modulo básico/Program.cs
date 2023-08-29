@@ -14,7 +14,8 @@ namespace Modulo_básico
             // Excecao.Single();
             // Metodo.Soma();
             // ProjetoQuinto.Single();
-            Delegados.Single();
+            // Delegados.Single();
+            ManipulacaoDeArquivos.Single();
         }
     }
 }
